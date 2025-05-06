@@ -1,6 +1,6 @@
 # Style-Transfer
 
-**Authors: Kerr Tan**
+**Authors: Kerr Tan, William Cheng, Zitong Luo**
 
 ## Abstraction
 
